@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" width="50">
-  <img src="https://github.com/adrianbrs/adrianbrs/blob/main/gifs/welcome.gif?raw=true" alt="Welcome to Adrian's Github!" width="400">
+  <img src="https://github.com/adrianbrs/adrianbrs/blob/main/gifs/welcome.gif?raw=true" alt="Welcome to Adrian's Github!" width="500">
 </div>
 
 <div align="center">
