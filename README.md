@@ -19,6 +19,7 @@
 - 🎮 [Open Hotel](https://github.com/open-hotel) Um remake do **Habbo Hotel** em JS.
 - 🔒 [nest-oidc-provider](https://github.com/adrianbrs/nest-oidc-provider) oidc-provider module for Nest framework
 - ⚙ [ph1-assembly](https://github.com/adrianbrs/ph1-assembly) | [ph1-emulator](https://github.com/adrianbrs/ph1-emulator) Montador/emulador de uma arquitetura de computador didática (PH1) desenvolvida em Go, para a disciplina de Arquitetura e Organização de Computadores I.
+- 🛠️ [jcc](https://github.com/adrianbrs/jcc) | Estudo de caso de um compilador C minimalista construído em JavaScript
 - 🖥️ [connect](https://github.com/salomaosnff/connect) PoC de uma plataforma de webconferência, desenvolvida em Vue, utilizando WebRTC e SocketIO.
 - 🎨 [easy-color-parser](https://github.com/adrianbrs/easy-color-parser) Meu primeiro projeto open-source 😃
 
