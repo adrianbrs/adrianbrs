@@ -16,7 +16,7 @@
 🚀 Alguns dos meus projetos mais interessantes:
 
 - 🎮 [ebrainz.com.br](https://ebrainz.com.br) Landing page criativa para uma empresa do setor de jogos.
-- 🎵 [Pubby.club](https://pubby.club) Site para criar salas de vídeo de diversas plataformas.
+- 🎵 [pubby.club](https://pubby.club) Site para criar salas de vídeo de diversas plataformas.
 - 🎮 [Open Hotel](https://github.com/open-hotel) Um remake do **Habbo Hotel** em JS.
 - 🔒 [nest-oidc-provider](https://github.com/adrianbrs/nest-oidc-provider) oidc-provider module for Nest framework
 - ⚙ [ph1-assembly](https://github.com/adrianbrs/ph1-assembly) | [ph1-emulator](https://github.com/adrianbrs/ph1-emulator) Montador/emulador de uma arquitetura de computador didática (PH1) desenvolvida em Go, para a disciplina de Arquitetura e Organização de Computadores I.
