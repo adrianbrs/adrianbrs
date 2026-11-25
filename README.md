@@ -15,7 +15,7 @@
 
 🚀 Alguns dos meus projetos mais interessantes:
 
-- 🎮 [ebrainz.com.br](https://ebrainz.com.br) Landing page criativa para uma empresa do setor de jogos.
+- 🎮 [ebrainz.com.br](https://ebrainz-preview.cerbaro.dev) Landing page criativa para uma empresa do setor de jogos.
 - 🎵 [pubby.club](https://pubby.club) Site para criar salas de vídeo de diversas plataformas.
 - 🎮 [Open Hotel](https://github.com/open-hotel) Um remake do **Habbo Hotel** em JS.
 - 🔒 [nest-oidc-provider](https://github.com/adrianbrs/nest-oidc-provider) oidc-provider module for Nest framework
